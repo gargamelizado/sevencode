@@ -1,0 +1,26 @@
+.Header{
+    background-color: black;
+}
+
+.wrapperHeader{
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 20px;
+}
+.wrapperHeader ul{
+    display: flex;
+    gap: 20px;
+    
+}
+.buttonRegistro{
+    background-color: var(--cor-base);
+}
+
+a{
+    color: whitesmoke;
+}
+a:hover{
+    color: var(--cor-base);
+}
+

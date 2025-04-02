@@ -1,0 +1,10 @@
+h2{
+    color: var(--color-white);
+}
+.Section{
+    background-color: var(--color-black);
+}
+.wrapperCalltoaction{
+    display: flex; 
+    align-items: center;
+}
