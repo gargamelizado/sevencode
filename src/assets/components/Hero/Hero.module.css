@@ -18,6 +18,9 @@ h2 {
 .section {
   margin: 0 auto;
 }
+.boxText{
+  max-width: 60ch;
+}
 .boxBtn{
     display: flex;
     gap: 10px 20px;

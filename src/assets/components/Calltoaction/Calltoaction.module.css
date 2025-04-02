@@ -7,4 +7,16 @@ h2{
 .wrapperCalltoaction{
     display: flex; 
     align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 20px;
+    
+}
+.imgBox{
+    padding: 20px;
+    margin: 20px;
+}
+
+.boxText{
+    max-width: 60ch;
 }
